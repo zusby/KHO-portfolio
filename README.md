@@ -4,6 +4,8 @@ This is my personal developer portfolio — a modern, responsive single-page app
 
 The site is deployed via **GitHub Pages**, making it easy to share with recruiters, collaborators, and the dev community.
 
+[Live website](https://zusby.github.io/kho-portfolio/)
+
 ## 🚀 Features
 
 - ⚛️ **React** – Component-based structure
@@ -11,7 +13,6 @@ The site is deployed via **GitHub Pages**, making it easy to share with recruite
 - 🧩 **shadcn/ui** – Beautiful, accessible UI components built on top of Radix UI  
 - 🌐 **GitHub Pages** – Deployed directly from the `main` branch  
 - 📱 **Responsive** – Optimized for mobile, tablet, and desktop viewing  
-- ✨ **Clean Design** – Minimalist interface focused on content and usability  
 
 ## 🛠️ Tech Stack
 
