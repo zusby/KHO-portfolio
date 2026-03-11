@@ -20,12 +20,19 @@ const experiences = [
         technologies: [],
     },
     {
-        title: "Software Developer",
+        title: "Software automation engineer",
         company: "Loccioni Group",
-        period: "July 2025 - Now",
-        description: "Software development in a SOA architecture with PLC Integration ",
-        technologies: ["C#"],
+        period: "July 2025 - January 2026 | 6 months",
+        description: "Software automation engineer in C# - PLC Twincat in a microservices environment",
+        technologies: ["C#","PLC","Automation","Parallel Computing","Real time","Event based"],
     },
+    {
+        title: "Full Stack Developer",
+        company: "Logical System SRL - Lodestar Group",
+        period: "January 2026 - Now",
+        description: "Full stack development in ERP - MRP and data management",
+        technologies: ["JavaEE","Tomcat","Services","Mysql-MariaDB","Zk"],
+    }
 ];
 
 const ITEM_WIDTH = 240;
