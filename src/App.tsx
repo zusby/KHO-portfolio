@@ -103,7 +103,7 @@ export function Portfolio() {
                         <a href="https://www.linkedin.com/in/kacper-henryk-osicki-b6194619a/" aria-label="LinkedIn Profile">
                             <SiLinkedin />
                         </a>
-                        <a href="https://drive.google.com/file/d/1ka_QFkm9BV3KkEqN5aKlAJVb7ReTELGz/view?usp=sharing" aria-label="Download Resume">
+                        <a href="https://docs.google.com/presentation/d/1GTnzifO3t71T63pBIRyJqYLRUreWbOcK/edit?usp=sharing&ouid=110145540090565660603&rtpof=true&sd=true" aria-label="Download Resume">
                             <ImProfile />
                         </a>
                     </div>
